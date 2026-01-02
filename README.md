@@ -1,6 +1,6 @@
 # JavaScript Functionality Demos 
 
-A collection of standalone **JavaScript mini-projects and demos** 
+A collection of standalone **JavaScript mini-projects and demos**  
 
 This repository serves as a practice/portfolio project to demonstrate practical JavaScript skills. Each folder contains an independent demo that you can open directly in a browser to see in action.
 
@@ -36,7 +36,3 @@ This repository serves as a practice/portfolio project to demonstrate practical 
 | `whackAMole`                       | Classic Whack-a-Mole game |
 | `test`                             | test      |
 
-## Technologies Used
-- **HTML5**
-- **CSS3** (including animations and effects)
-- **Vanilla JavaScript** (ES6+ features, no frameworks)
